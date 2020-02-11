@@ -5,54 +5,63 @@ title="Test" media="screen, print" type="text/css"?>
 
 <SETLIST>
     <SONG>
-		<TITLE>Song Name Here</TITLE>
-		<GENRE>GENRE</GENRE>
-		<YEAR>YEAR</YEAR>
-	</SONG>
+        <TITLE>Song Name Here</TITLE>
+        <GENRE>GENRE</GENRE>
+        <YEAR>YEAR</YEAR>
+    </SONG>
+
     <SONG>
-		<TITLE>Song Name Here</TITLE>
-		<GENRE>GENRE</GENRE>
-		<YEAR>YEAR</YEAR>
-	</SONG>
+        <TITLE>Song Name Here</TITLE>
+        <GENRE>Genre</GENRE>
+        <YEAR>Year</YEAR>
+    </SONG>
+
     <SONG>
-		<TITLE>Song Name Here</TITLE>
-		<GENRE>GENRE</GENRE>
-		<YEAR>YEAR</YEAR>
-	</SONG>
+        <TITLE>Song Name Here</TITLE>
+        <GENRE>GENRE</GENRE>
+        <YEAR>YEAR</YEAR>
+    </SONG>
+
     <SONG>
-		<TITLE>Song Name Here</TITLE>
-		<GENRE>GENRE</GENRE>
-		<YEAR>YEAR</YEAR>
-	</SONG>
+        <TITLE>Song Name Here</TITLE>
+        <GENRE>GENRE</GENRE>
+        <YEAR>YEAR</YEAR>
+    </SONG>
+
     <SONG>
-		<TITLE>Song Name Here</TITLE>
-		<GENRE>GENRE</GENRE>
-		<YEAR>YEAR</YEAR>
-	</SONG>
+        <TITLE>Song Name Here</TITLE>
+        <GENRE>GENRE</GENRE>
+        <YEAR>YEAR</YEAR>
+    </SONG>
+
     <SONG>
-		<TITLE>Song Name Here</TITLE>
-		<GENRE>GENRE</GENRE>
-		<YEAR>YEAR</YEAR>
-	</SONG>
+        <TITLE>Song Name Here</TITLE>
+        <GENRE>GENRE</GENRE>
+        <YEAR>YEAR</YEAR>
+    </SONG>
+
     <SONG>
-		<TITLE>Song Name Here</TITLE>
-		<GENRE>GENRE</GENRE>
-		<YEAR>YEAR</YEAR>
-	</SONG>
+        <TITLE>Song Name Here</TITLE>
+        <GENRE>GENRE</GENRE>
+        <YEAR>YEAR</YEAR>
+    </SONG>
+
     <SONG>
-		<TITLE>Song Name Here</TITLE>
-		<GENRE>GENRE</GENRE>
-		<YEAR>YEAR</YEAR>
-	</SONG>
+        <TITLE>Song Name Here</TITLE>
+        <GENRE>GENRE</GENRE>
+        <YEAR>YEAR</YEAR>
+    </SONG>
+
     <SONG>
-		<TITLE>Song Name Here</TITLE>
-		<GENRE>GENRE</GENRE>
-		<YEAR>YEAR</YEAR>
-	</SONG>
+        <TITLE>Song Name Here</TITLE>
+        <GENRE>GENRE</GENRE>
+        <YEAR>YEAR</YEAR>
+    </SONG>
+
     <SONG>
-		<TITLE>Song Name Here</TITLE>
-		<GENRE>GENRE</GENRE>
-		<YEAR>YEAR</YEAR>
-	</SONG>
+        <TITLE>Song Name Here</TITLE>
+        <GENRE>GENRE</GENRE>
+        <YEAR>YEAR</YEAR>
+    </SONG>
 
 </SETLIST>
