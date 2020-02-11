@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="song_list.css" alternate="yes"
+title="Test" media="screen, print" type="text/css"?>
+
+
+<SETLIST>
+    <SONG>
+		<TITLE>Song Name Here</TITLE>
+		<GENRE>GENRE</GENRE>
+		<YEAR>YEAR</YEAR>
+	</SONG>
+</SETLIST>
