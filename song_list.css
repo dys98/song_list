@@ -1,5 +1,5 @@
 SETLIST {
-    background-color: #87ceeb;
+    background-color: powderblue;
     width: 100%;
 }
 SONG {
@@ -10,7 +10,6 @@ SONG {
 }
 TITLE, GENRE, YEAR {
     display: block;
-    color: #000000;
     margin-left: 20pt;
     font-size: 20pt;
 }
