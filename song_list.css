@@ -6,9 +6,11 @@ SONG {
     display: block;
     margin-bottom: 30pt;
     margin-left: 0;
+    font-size: 20pt;
 }
 TITLE, GENRE, YEAR {
     display: block;
-    color: #ff0000;
+    color: #000000;
+    margin-left: 20pt;
     font-size: 20pt;
 }
