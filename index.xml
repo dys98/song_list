@@ -3,64 +3,78 @@
 
 
 <SETLIST>
+    <HEADER>Disney Wanna Be's</HEADER>
+
+    <HEADER2>Set List</HEADER2>
+
     <SONG>
-        <TITLE>Song Name Here</TITLE>
-        <GENRE>GENRE</GENRE>
-        <YEAR>YEAR</YEAR>
+        <TITLE>"Hakuna Matata"</TITLE>
+        <ARTIST>Nathan Lane, Ernie Sabella, Jason Weaver, and Joseph Williams</ARTIST>
+        <GENRE>Musical</GENRE>
+        <YEAR>1994</YEAR>
     </SONG>
 
     <SONG>
-        <TITLE>Song Name Here</TITLE>
-        <GENRE>Genre</GENRE>
-        <YEAR>Year</YEAR>
+        <TITLE>"Let It Go"</TITLE>
+        <ARTIST>Idina Menzel</ARTIST>
+        <GENRE>Musical</GENRE>
+        <YEAR>2013</YEAR>
     </SONG>
 
     <SONG>
-        <TITLE>Song Name Here</TITLE>
-        <GENRE>GENRE</GENRE>
-        <YEAR>YEAR</YEAR>
+        <TITLE>"Can You Feel the Love Tonight?"</TITLE>
+        <ARTIST>Joseph Williams, Sally Dworsky, Nathan Lane, Ernie Sabella, and Kristle Edwards</ARTIST>
+        <GENRE>Musical</GENRE>
+        <YEAR>1994</YEAR>
     </SONG>
 
     <SONG>
-        <TITLE>Song Name Here</TITLE>
-        <GENRE>GENRE</GENRE>
-        <YEAR>YEAR</YEAR>
+        <TITLE>"You're Welcome"</TITLE>
+        <ARTIST>Dwayne Johnson</ARTIST>
+        <GENRE>Musical</GENRE>
+        <YEAR>2016</YEAR>
     </SONG>
 
     <SONG>
-        <TITLE>Song Name Here</TITLE>
-        <GENRE>GENRE</GENRE>
-        <YEAR>YEAR</YEAR>
+        <TITLE>"I'll Make a Man Out of You"</TITLE>
+        <ARTIST>Donny Osmond and Chorus</ARTIST>
+        <GENRE>Musical</GENRE>
+        <YEAR>1998</YEAR>
     </SONG>
 
     <SONG>
-        <TITLE>Song Name Here</TITLE>
-        <GENRE>GENRE</GENRE>
-        <YEAR>YEAR</YEAR>
+        <TITLE>"Circle of Life"</TITLE>
+        <ARTIST>Carmen Twillie and Lebo M</ARTIST>
+        <GENRE>Musical</GENRE>
+        <YEAR>1994</YEAR>
     </SONG>
 
     <SONG>
-        <TITLE>Song Name Here</TITLE>
-        <GENRE>GENRE</GENRE>
-        <YEAR>YEAR</YEAR>
+        <TITLE>"I Just Can't Wait to Be King"</TITLE>
+        <ARTIST>Jason Weaver, Rowan Atkinson, and Laura Williams</ARTIST>
+        <GENRE>Musical</GENRE>
+        <YEAR>1994</YEAR>
     </SONG>
 
     <SONG>
-        <TITLE>Song Name Here</TITLE>
-        <GENRE>GENRE</GENRE>
-        <YEAR>YEAR</YEAR>
+        <TITLE>"You've Got a Friend in Me"</TITLE>
+        <ARTIST>Randy Newman</ARTIST>
+        <GENRE>Soundtrack</GENRE>
+        <YEAR>1995</YEAR>
     </SONG>
 
     <SONG>
-        <TITLE>Song Name Here</TITLE>
-        <GENRE>GENRE</GENRE>
-        <YEAR>YEAR</YEAR>
+        <TITLE>"How Far I'll Go"</TITLE>
+        <ARTIST>Auli'i Cravalho</ARTIST>
+        <GENRE>Musical</GENRE>
+        <YEAR>2016</YEAR>
     </SONG>
 
     <SONG>
-        <TITLE>Song Name Here</TITLE>
-        <GENRE>GENRE</GENRE>
-        <YEAR>YEAR</YEAR>
+        <TITLE>"You'll Be in My Heart"</TITLE>
+        <ARTIST>Phil Collins and Glenn Close</ARTIST>
+        <GENRE>Musical</GENRE>
+        <YEAR>2000</YEAR>
     </SONG>
 
 </SETLIST>

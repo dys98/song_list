@@ -2,14 +2,27 @@ SETLIST {
     background-color: powderblue;
     width: 100%;
 }
+HEADER{
+    display: block;
+    background-color: #8efd99;
+    margin-bottom: 10pt;
+    margin-left: 0;
+    font-size: 30pt;
+}
+HEADER2{
+    display: block;
+    margin-bottom: 15pt;
+    margin-left: 0;
+    font-size: 25pt;
+}
 SONG {
     display: block;
     margin-bottom: 10pt;
     margin-left: 0;
     font-size: 20pt;
 }
-TITLE, GENRE, YEAR {
+TITLE, ARTIST, GENRE, YEAR {
     display: block;
     margin-left: 20pt;
-    font-size: 20pt;
+    font-size: 15pt;
 }
